@@ -1,1 +1,2 @@
 # odin-recipes
+Current project is a recipe website. The purpose of the project is to demonstrate HTML and Git skills, including writing proper HTML boilerplate, correctly configuring individual web pages, adding links and images to HTML files, and writing proper Git commit messages.
